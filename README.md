@@ -16,7 +16,7 @@ Skills summary:
 - NODE.js
 - Jest
 - Scum 
-- pair programming 
+- Pair programming 
 - Agile 
 
 
