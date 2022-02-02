@@ -21,4 +21,4 @@ My skills summary:
 
 
 
-Contact me: https://www.linkedin.com/in/nasra-diini-271541225/
+Connect with me: https://www.linkedin.com/in/nasra-diini-271541225/
