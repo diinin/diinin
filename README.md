@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there I am Nasra 👋
 
-<!--
-**diinin/diinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I recently had the opportunity to finish the 16 week intensive bootcamp at the School of Code! During my time at the SoC I had the oppurtunity to work with other bootcampers on a wide range of different workshops and projects. 
+I had the opportunity to work in an agile manner, incorporating best practice standards and enhance my soft skills to become a competent and highly motivated full stack software developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prior to attending the bootcamp I worked as a senior NHS pharmacist in a busy Trust in the West Midlands whereby I was involved in the training and development of junior pharmacists. 
+
+
+My skills summary:
+
+- HTML 
+- CSS
+- JavaScript
+- React
+- NODE.js
+- Jest
+- Scum 
+- pair programming 
+- Agile 
+
+
+
+Contact me: https://www.linkedin.com/in/nasra-diini-271541225/
