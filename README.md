@@ -7,7 +7,7 @@ I worked in an agile manner, incorporating best coding practices and enhanced my
 Prior to attending the bootcamp I worked as a senior NHS pharmacist in a busy Trust within the West Midlands, where I was involved in the training and development of junior pharmacists. 
 
 
-My skills summary:
+Skills summary:
 
 - HTML 
 - CSS
